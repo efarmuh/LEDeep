@@ -1,0 +1,13 @@
+# Git ignore for altium projects
+!.gitattributes
+!.gitignore
+!readme.md
+!.gitkeep
+
+
+History/
+__Previews/
+Project Logs for led_project/
+!*.SchDoc
+!*.PcbDoc
+!*.PcbDoc
