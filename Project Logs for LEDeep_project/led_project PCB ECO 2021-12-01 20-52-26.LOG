@@ -1,0 +1,1462 @@
+Added Component: Designator=AT2(TQFP-44)
+Add component (AddParameter): Name = "Farnell"; Value = "2484915"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ATmega644PA"; VariantName = "[No Variations]"
+Added Component: Designator=C1(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C2(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "10-12p"; VariantName = "[No Variations]"
+Added Component: Designator=C12(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "10-12p"; VariantName = "[No Variations]"
+Added Component: Designator=C13(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C14(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C15(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C16(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C17_LDO1(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C17_LDO2(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C18_LDO1(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Added Component: Designator=C18_LDO2(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Added Component: Designator=C19_led_column1(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C19_led_column2(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C19_led_column3(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C19_led_column4(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C19_led_column5(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C19_led_column6(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C19_led_column7(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C19_led_column8(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C20_led_column1(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C20_led_column2(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C20_led_column3(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C20_led_column4(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C20_led_column5(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C20_led_column6(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C20_led_column7(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C20_led_column8(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C21_led_column1(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C21_led_column2(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C21_led_column3(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C21_led_column4(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C21_led_column5(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C21_led_column6(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C21_led_column7(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C21_led_column8(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C22_led_column1(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C22_led_column2(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C22_led_column3(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C22_led_column4(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C22_led_column5(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C22_led_column6(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C22_led_column7(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C22_led_column8(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C23_led_column1(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C23_led_column2(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C23_led_column3(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C23_led_column4(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C23_led_column5(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C23_led_column6(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C23_led_column7(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C23_led_column8(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C24_led_column1(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C24_led_column2(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C24_led_column3(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C24_led_column4(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C24_led_column5(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C24_led_column6(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C24_led_column7(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C24_led_column8(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C25_led_column1(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C25_led_column2(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C25_led_column3(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C25_led_column4(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C25_led_column5(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C25_led_column6(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C25_led_column7(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C25_led_column8(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C26_led_column1(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C26_led_column2(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C26_led_column3(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C26_led_column4(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C26_led_column5(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C26_led_column6(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C26_led_column7(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C26_led_column8(1206, capasitor)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=D1_led_column1(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D1_led_column2(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D1_led_column3(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D1_led_column4(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D1_led_column5(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D1_led_column6(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D1_led_column7(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D1_led_column8(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D2_led_column1(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D2_led_column2(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D2_led_column3(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D2_led_column4(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D2_led_column5(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D2_led_column6(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D2_led_column7(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D2_led_column8(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D3_led_column1(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D3_led_column2(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D3_led_column3(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D3_led_column4(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D3_led_column5(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D3_led_column6(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D3_led_column7(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D3_led_column8(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D4_led_column1(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D4_led_column2(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D4_led_column3(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D4_led_column4(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D4_led_column5(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D4_led_column6(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D4_led_column7(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D4_led_column8(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D5_led_column1(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D5_led_column2(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D5_led_column3(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D5_led_column4(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D5_led_column5(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D5_led_column6(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D5_led_column7(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D5_led_column8(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D6_led_column1(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D6_led_column2(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D6_led_column3(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D6_led_column4(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D6_led_column5(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D6_led_column6(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D6_led_column7(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D6_led_column8(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D7_led_column1(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D7_led_column2(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D7_led_column3(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D7_led_column4(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D7_led_column5(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D7_led_column6(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D7_led_column7(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D7_led_column8(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D8_led_column1(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D8_led_column2(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D8_led_column3(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D8_led_column4(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D8_led_column5(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D8_led_column6(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D8_led_column7(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=D8_led_column8(NEOPIXEL)
+Add component (AddParameter): Name = "DigiKey"; Value = "1568-1800-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812"; VariantName = "[No Variations]"
+Added Component: Designator=J1(Banana Conn VCC)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.dem-uk.com/deltron-components/Data/Product_Downloads/deltron-571-0100-4mm-90deg-single-socket-data.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Deltron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "571-0100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "164-6218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=164-6218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(Banana Conn VCC)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.dem-uk.com/deltron-components/Data/Product_Downloads/deltron-571-0100-4mm-90deg-single-socket-data.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Deltron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "571-0100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "164-6218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=164-6218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=JT2(Atmel_JTAG)
+Added Component: Designator=L2(1812, coil)
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Added Component: Designator=LED1_LDO1(0805_led)
+Add component (AddParameter): Name = "Value"; Value = "0805 LED"; VariantName = "[No Variations]"
+Added Component: Designator=LED1_LDO2(0805_led)
+Add component (AddParameter): Name = "Value"; Value = "0805 LED"; VariantName = "[No Variations]"
+Added Component: Designator=P1(2x8 Pin Header)
+Add component (AddParameter): Name = "Value"; Value = "1x8 Pin Header"; VariantName = "[No Variations]"
+Added Component: Designator=P2(2x3 PH)
+Add component (AddParameter): Name = "Value"; Value = "2x3 Pin Header, 2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=P9(2x2 PH)
+Add component (AddParameter): Name = "Value"; Value = "2x2 Pin Header, 2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=P10_LDO1(1x2HEADER)
+Add component (AddParameter): Name = "Value"; Value = "1x2 Pin Header"; VariantName = "[No Variations]"
+Added Component: Designator=P10_LDO2(1x2HEADER)
+Add component (AddParameter): Name = "Value"; Value = "1x2 Pin Header"; VariantName = "[No Variations]"
+Added Component: Designator=P11(padFour_L)
+Add component (AddParameter): Name = "Value"; Value = "4x1 Pin Header"; VariantName = "[No Variations]"
+Added Component: Designator=P12(padFour_L)
+Add component (AddParameter): Name = "Value"; Value = "4x1 Pin Header"; VariantName = "[No Variations]"
+Added Component: Designator=R1(1206)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R9_LDO1(1206)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R9_LDO2(1206)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R10_led_column1(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R10_led_column2(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R10_led_column3(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R10_led_column4(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R10_led_column5(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R10_led_column6(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R10_led_column7(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R10_led_column8(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R11_led_column1(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R11_led_column2(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R11_led_column3(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R11_led_column4(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R11_led_column5(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R11_led_column6(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R11_led_column7(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R11_led_column8(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R12_led_column1(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R12_led_column2(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R12_led_column3(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R12_led_column4(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R12_led_column5(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R12_led_column6(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R12_led_column7(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R12_led_column8(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R13_led_column1(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R13_led_column2(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R13_led_column3(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R13_led_column4(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R13_led_column5(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R13_led_column6(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R13_led_column7(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R13_led_column8(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R14_led_column1(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R14_led_column2(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R14_led_column3(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R14_led_column4(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R14_led_column5(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R14_led_column6(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R14_led_column7(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R14_led_column8(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R15_led_column1(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R15_led_column2(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R15_led_column3(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R15_led_column4(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R15_led_column5(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R15_led_column6(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R15_led_column7(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R15_led_column8(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R16_led_column1(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R16_led_column2(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R16_led_column3(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R16_led_column4(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R16_led_column5(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R16_led_column6(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R16_led_column7(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R16_led_column8(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R17_led_column1(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R17_led_column2(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R17_led_column3(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R17_led_column4(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R17_led_column5(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R17_led_column6(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R17_led_column7(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R17_led_column8(1206)
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=TB4(Button smd)
+Add component (AddParameter): Name = "ELFA"; Value = "110-87-406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Button SMD"; VariantName = "[No Variations]"
+Added Component: Designator=U1(lag_16_5by3_3x3mm)
+Added Component: Designator=U2_5V_dcdc1(tps61201_2)
+Added Component: Designator=U2_5V_dcdc2(tps61201_2)
+Added Component: Designator=U2_5V_dcdc3(tps61201_2)
+Added Component: Designator=VR1_LDO1(SOT23-5)
+Add component (AddParameter): Name = "Drop Out"; Value = "102mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "1287689"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "Vin 6V (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TPS79333DBVR"; VariantName = "[No Variations]"
+Added Component: Designator=VR1_LDO2(SOT23-5)
+Add component (AddParameter): Name = "Drop Out"; Value = "102mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "1287689"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "Vin 6V (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TPS79333DBVR"; VariantName = "[No Variations]"
+Added Component: Designator=XT2(XTAL_SMD_LP)
+Add component (AddParameter): Name = "Farnell"; Value = "1841946"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=R\S\T\ Pin=AT2-4
+Added Pin To Net: NetName=GND Pin=AT2-6
+Added Pin To Net: NetName=PD0 Pin=AT2-9
+Added Pin To Net: NetName=PD1 Pin=AT2-10
+Added Pin To Net: NetName=PD2 Pin=AT2-11
+Added Pin To Net: NetName=PD3 Pin=AT2-12
+Added Pin To Net: NetName=PD4 Pin=AT2-13
+Added Pin To Net: NetName=PD5 Pin=AT2-14
+Added Pin To Net: NetName=PD6 Pin=AT2-15
+Added Pin To Net: NetName=PD7 Pin=AT2-16
+Added Pin To Net: NetName=GND Pin=AT2-18
+Added Pin To Net: NetName=TCK Pin=AT2-21
+Added Pin To Net: NetName=TMS Pin=AT2-22
+Added Pin To Net: NetName=TDO Pin=AT2-23
+Added Pin To Net: NetName=TDI Pin=AT2-24
+Added Pin To Net: NetName=AVCC Pin=AT2-27
+Added Pin To Net: NetName=GND Pin=AT2-28
+Added Pin To Net: NetName=PA7 Pin=AT2-30
+Added Pin To Net: NetName=PA6 Pin=AT2-31
+Added Pin To Net: NetName=PA5 Pin=AT2-32
+Added Pin To Net: NetName=PA4 Pin=AT2-33
+Added Pin To Net: NetName=PA3 Pin=AT2-34
+Added Pin To Net: NetName=PA2 Pin=AT2-35
+Added Pin To Net: NetName=PA1 Pin=AT2-36
+Added Pin To Net: NetName=PA0 Pin=AT2-37
+Added Pin To Net: NetName=GND Pin=AT2-39
+Added Pin To Net: NetName=GND Pin=C1-0
+Added Pin To Net: NetName=R\S\T\ Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-0
+Added Pin To Net: NetName=GND Pin=C12-0
+Added Pin To Net: NetName=GND Pin=C13-0
+Added Pin To Net: NetName=AVCC Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-0
+Added Pin To Net: NetName=3V3 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-0
+Added Pin To Net: NetName=3V3 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-0
+Added Pin To Net: NetName=3V3 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17_LDO1-0
+Added Pin To Net: NetName=GND Pin=C17_LDO2-0
+Added Pin To Net: NetName=GND Pin=C18_LDO1-0
+Added Pin To Net: NetName=GND Pin=C18_LDO2-0
+Added Pin To Net: NetName=GND Pin=C19_led_column1-0
+Added Pin To Net: NetName=GND Pin=C19_led_column2-0
+Added Pin To Net: NetName=GND Pin=C19_led_column3-0
+Added Pin To Net: NetName=GND Pin=C19_led_column4-0
+Added Pin To Net: NetName=GND Pin=C19_led_column5-0
+Added Pin To Net: NetName=GND Pin=C19_led_column6-0
+Added Pin To Net: NetName=GND Pin=C19_led_column7-0
+Added Pin To Net: NetName=GND Pin=C19_led_column8-0
+Added Pin To Net: NetName=GND Pin=C20_led_column1-0
+Added Pin To Net: NetName=GND Pin=C20_led_column2-0
+Added Pin To Net: NetName=GND Pin=C20_led_column3-0
+Added Pin To Net: NetName=GND Pin=C20_led_column4-0
+Added Pin To Net: NetName=GND Pin=C20_led_column5-0
+Added Pin To Net: NetName=GND Pin=C20_led_column6-0
+Added Pin To Net: NetName=GND Pin=C20_led_column7-0
+Added Pin To Net: NetName=GND Pin=C20_led_column8-0
+Added Pin To Net: NetName=GND Pin=C21_led_column1-0
+Added Pin To Net: NetName=GND Pin=C21_led_column2-0
+Added Pin To Net: NetName=GND Pin=C21_led_column3-0
+Added Pin To Net: NetName=GND Pin=C21_led_column4-0
+Added Pin To Net: NetName=GND Pin=C21_led_column5-0
+Added Pin To Net: NetName=GND Pin=C21_led_column6-0
+Added Pin To Net: NetName=GND Pin=C21_led_column7-0
+Added Pin To Net: NetName=GND Pin=C21_led_column8-0
+Added Pin To Net: NetName=GND Pin=C22_led_column1-0
+Added Pin To Net: NetName=GND Pin=C22_led_column2-0
+Added Pin To Net: NetName=GND Pin=C22_led_column3-0
+Added Pin To Net: NetName=GND Pin=C22_led_column4-0
+Added Pin To Net: NetName=GND Pin=C22_led_column5-0
+Added Pin To Net: NetName=GND Pin=C22_led_column6-0
+Added Pin To Net: NetName=GND Pin=C22_led_column7-0
+Added Pin To Net: NetName=GND Pin=C22_led_column8-0
+Added Pin To Net: NetName=GND Pin=C23_led_column1-0
+Added Pin To Net: NetName=GND Pin=C23_led_column2-0
+Added Pin To Net: NetName=GND Pin=C23_led_column3-0
+Added Pin To Net: NetName=GND Pin=C23_led_column4-0
+Added Pin To Net: NetName=GND Pin=C23_led_column5-0
+Added Pin To Net: NetName=GND Pin=C23_led_column6-0
+Added Pin To Net: NetName=GND Pin=C23_led_column7-0
+Added Pin To Net: NetName=GND Pin=C23_led_column8-0
+Added Pin To Net: NetName=GND Pin=C24_led_column1-0
+Added Pin To Net: NetName=GND Pin=C24_led_column2-0
+Added Pin To Net: NetName=GND Pin=C24_led_column3-0
+Added Pin To Net: NetName=GND Pin=C24_led_column4-0
+Added Pin To Net: NetName=GND Pin=C24_led_column5-0
+Added Pin To Net: NetName=GND Pin=C24_led_column6-0
+Added Pin To Net: NetName=GND Pin=C24_led_column7-0
+Added Pin To Net: NetName=GND Pin=C24_led_column8-0
+Added Pin To Net: NetName=GND Pin=C25_led_column1-0
+Added Pin To Net: NetName=GND Pin=C25_led_column2-0
+Added Pin To Net: NetName=GND Pin=C25_led_column3-0
+Added Pin To Net: NetName=GND Pin=C25_led_column4-0
+Added Pin To Net: NetName=GND Pin=C25_led_column5-0
+Added Pin To Net: NetName=GND Pin=C25_led_column6-0
+Added Pin To Net: NetName=GND Pin=C25_led_column7-0
+Added Pin To Net: NetName=GND Pin=C25_led_column8-0
+Added Pin To Net: NetName=GND Pin=C26_led_column1-0
+Added Pin To Net: NetName=GND Pin=C26_led_column2-0
+Added Pin To Net: NetName=GND Pin=C26_led_column3-0
+Added Pin To Net: NetName=GND Pin=C26_led_column4-0
+Added Pin To Net: NetName=GND Pin=C26_led_column5-0
+Added Pin To Net: NetName=GND Pin=C26_led_column6-0
+Added Pin To Net: NetName=GND Pin=C26_led_column7-0
+Added Pin To Net: NetName=GND Pin=C26_led_column8-0
+Added Pin To Net: NetName=GND Pin=D1_led_column1-6
+Added Pin To Net: NetName=GND Pin=D1_led_column2-6
+Added Pin To Net: NetName=GND Pin=D1_led_column3-6
+Added Pin To Net: NetName=GND Pin=D1_led_column4-6
+Added Pin To Net: NetName=GND Pin=D1_led_column5-6
+Added Pin To Net: NetName=GND Pin=D1_led_column6-6
+Added Pin To Net: NetName=GND Pin=D1_led_column7-6
+Added Pin To Net: NetName=GND Pin=D1_led_column8-6
+Added Pin To Net: NetName=GND Pin=D2_led_column1-6
+Added Pin To Net: NetName=GND Pin=D2_led_column2-6
+Added Pin To Net: NetName=GND Pin=D2_led_column3-6
+Added Pin To Net: NetName=GND Pin=D2_led_column4-6
+Added Pin To Net: NetName=GND Pin=D2_led_column5-6
+Added Pin To Net: NetName=GND Pin=D2_led_column6-6
+Added Pin To Net: NetName=GND Pin=D2_led_column7-6
+Added Pin To Net: NetName=GND Pin=D2_led_column8-6
+Added Pin To Net: NetName=GND Pin=D3_led_column1-6
+Added Pin To Net: NetName=GND Pin=D3_led_column2-6
+Added Pin To Net: NetName=GND Pin=D3_led_column3-6
+Added Pin To Net: NetName=GND Pin=D3_led_column4-6
+Added Pin To Net: NetName=GND Pin=D3_led_column5-6
+Added Pin To Net: NetName=GND Pin=D3_led_column6-6
+Added Pin To Net: NetName=GND Pin=D3_led_column7-6
+Added Pin To Net: NetName=GND Pin=D3_led_column8-6
+Added Pin To Net: NetName=GND Pin=D4_led_column1-6
+Added Pin To Net: NetName=GND Pin=D4_led_column2-6
+Added Pin To Net: NetName=GND Pin=D4_led_column3-6
+Added Pin To Net: NetName=GND Pin=D4_led_column4-6
+Added Pin To Net: NetName=GND Pin=D4_led_column5-6
+Added Pin To Net: NetName=GND Pin=D4_led_column6-6
+Added Pin To Net: NetName=GND Pin=D4_led_column7-6
+Added Pin To Net: NetName=GND Pin=D4_led_column8-6
+Added Pin To Net: NetName=GND Pin=D5_led_column1-6
+Added Pin To Net: NetName=GND Pin=D5_led_column2-6
+Added Pin To Net: NetName=GND Pin=D5_led_column3-6
+Added Pin To Net: NetName=GND Pin=D5_led_column4-6
+Added Pin To Net: NetName=GND Pin=D5_led_column5-6
+Added Pin To Net: NetName=GND Pin=D5_led_column6-6
+Added Pin To Net: NetName=GND Pin=D5_led_column7-6
+Added Pin To Net: NetName=GND Pin=D5_led_column8-6
+Added Pin To Net: NetName=GND Pin=D6_led_column1-6
+Added Pin To Net: NetName=GND Pin=D6_led_column2-6
+Added Pin To Net: NetName=GND Pin=D6_led_column3-6
+Added Pin To Net: NetName=GND Pin=D6_led_column4-6
+Added Pin To Net: NetName=GND Pin=D6_led_column5-6
+Added Pin To Net: NetName=GND Pin=D6_led_column6-6
+Added Pin To Net: NetName=GND Pin=D6_led_column7-6
+Added Pin To Net: NetName=GND Pin=D6_led_column8-6
+Added Pin To Net: NetName=GND Pin=D7_led_column1-6
+Added Pin To Net: NetName=GND Pin=D7_led_column2-6
+Added Pin To Net: NetName=GND Pin=D7_led_column3-6
+Added Pin To Net: NetName=GND Pin=D7_led_column4-6
+Added Pin To Net: NetName=GND Pin=D7_led_column5-6
+Added Pin To Net: NetName=GND Pin=D7_led_column6-6
+Added Pin To Net: NetName=GND Pin=D7_led_column7-6
+Added Pin To Net: NetName=GND Pin=D7_led_column8-6
+Added Pin To Net: NetName=GND Pin=D8_led_column1-6
+Added Pin To Net: NetName=GND Pin=D8_led_column2-6
+Added Pin To Net: NetName=GND Pin=D8_led_column3-6
+Added Pin To Net: NetName=GND Pin=D8_led_column4-6
+Added Pin To Net: NetName=GND Pin=D8_led_column5-6
+Added Pin To Net: NetName=GND Pin=D8_led_column6-6
+Added Pin To Net: NetName=GND Pin=D8_led_column7-6
+Added Pin To Net: NetName=GND Pin=D8_led_column8-6
+Added Pin To Net: NetName=TCK Pin=JT2-1
+Added Pin To Net: NetName=GND Pin=JT2-2
+Added Pin To Net: NetName=TDO Pin=JT2-3
+Added Pin To Net: NetName=3V3 Pin=JT2-4
+Added Pin To Net: NetName=TMS Pin=JT2-5
+Added Pin To Net: NetName=TDI Pin=JT2-9
+Added Pin To Net: NetName=GND Pin=JT2-10
+Added Pin To Net: NetName=AVCC Pin=L2-2
+Added Pin To Net: NetName=PA0 Pin=P11-1
+Added Pin To Net: NetName=PA1 Pin=P11-2
+Added Pin To Net: NetName=PA2 Pin=P11-3
+Added Pin To Net: NetName=PA3 Pin=P11-4
+Added Pin To Net: NetName=PA4 Pin=P12-1
+Added Pin To Net: NetName=PA5 Pin=P12-2
+Added Pin To Net: NetName=PA6 Pin=P12-3
+Added Pin To Net: NetName=PA7 Pin=P12-4
+Added Pin To Net: NetName=R\S\T\ Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R9_LDO1-1
+Added Pin To Net: NetName=GND Pin=R9_LDO2-1
+Added Pin To Net: NetName=GND Pin=TB4-1
+Added Pin To Net: NetName=R\S\T\ Pin=TB4-2
+Added Pin To Net: NetName=GND Pin=TB4-3
+Added Pin To Net: NetName=R\S\T\ Pin=TB4-4
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U2_5V_dcdc1-2
+Added Pin To Net: NetName=GND Pin=U2_5V_dcdc1-2
+Added Pin To Net: NetName=GND Pin=U2_5V_dcdc1-2
+Added Pin To Net: NetName=GND Pin=U2_5V_dcdc1-2
+Added Pin To Net: NetName=GND Pin=U2_5V_dcdc2-2
+Added Pin To Net: NetName=GND Pin=U2_5V_dcdc2-2
+Added Pin To Net: NetName=GND Pin=U2_5V_dcdc2-2
+Added Pin To Net: NetName=GND Pin=U2_5V_dcdc2-2
+Added Pin To Net: NetName=GND Pin=U2_5V_dcdc3-2
+Added Pin To Net: NetName=GND Pin=U2_5V_dcdc3-2
+Added Pin To Net: NetName=GND Pin=U2_5V_dcdc3-2
+Added Pin To Net: NetName=GND Pin=U2_5V_dcdc3-2
+Added Pin To Net: NetName=GND Pin=VR1_LDO1-2
+Added Pin To Net: NetName=GND Pin=VR1_LDO2-2
+Added Pin To Net: NetName=3V3_MCU Pin=AT2-5
+Added Pin To Net: NetName=3V3_MCU Pin=AT2-17
+Added Pin To Net: NetName=3V3_MCU Pin=AT2-38
+Added Pin To Net: NetName=3V3_MCU Pin=L2-1
+Added Pin To Net: NetName=3V3_MCU Pin=P9-4
+Added Pin To Net: NetName=3V3_MCU Pin=R1-0
+Added Net: Name=3V3_MCU
+Added Pin To Net: NetName=3V3_MISC Pin=P9-3
+Added Pin To Net: NetName=3V3_MISC Pin=U1-14
+Added Net: Name=3V3_MISC
+Added Pin To Net: NetName=3V3out1 Pin=C18_LDO1-1
+Added Pin To Net: NetName=3V3out1 Pin=LED1_LDO1-1
+Added Pin To Net: NetName=3V3out1 Pin=P9-1
+Added Pin To Net: NetName=3V3out1 Pin=VR1_LDO1-5
+Added Net: Name=3V3out1
+Added Pin To Net: NetName=3V3out2 Pin=C18_LDO2-1
+Added Pin To Net: NetName=3V3out2 Pin=LED1_LDO2-1
+Added Pin To Net: NetName=3V3out2 Pin=P9-2
+Added Pin To Net: NetName=3V3out2 Pin=VR1_LDO2-5
+Added Net: Name=3V3out2
+Added Pin To Net: NetName=5V_led1 Pin=P1-1
+Added Pin To Net: NetName=5V_led1 Pin=P1-2
+Added Pin To Net: NetName=5V_led1 Pin=P1-3
+Added Net: Name=5V_led1
+Added Pin To Net: NetName=5V_led2 Pin=P1-4
+Added Pin To Net: NetName=5V_led2 Pin=P1-5
+Added Pin To Net: NetName=5V_led2 Pin=P1-6
+Added Net: Name=5V_led2
+Added Pin To Net: NetName=5V_led3 Pin=P1-7
+Added Pin To Net: NetName=5V_led3 Pin=P1-8
+Added Net: Name=5V_led3
+Added Pin To Net: NetName=5V_led Pin=D1_led_column1-5
+Added Pin To Net: NetName=5V_led Pin=D1_led_column2-5
+Added Pin To Net: NetName=5V_led Pin=D1_led_column3-5
+Added Pin To Net: NetName=5V_led Pin=D1_led_column4-5
+Added Pin To Net: NetName=5V_led Pin=D1_led_column5-5
+Added Pin To Net: NetName=5V_led Pin=D1_led_column6-5
+Added Pin To Net: NetName=5V_led Pin=D1_led_column7-5
+Added Pin To Net: NetName=5V_led Pin=D1_led_column8-5
+Added Pin To Net: NetName=5V_led Pin=D2_led_column1-5
+Added Pin To Net: NetName=5V_led Pin=D2_led_column2-5
+Added Pin To Net: NetName=5V_led Pin=D2_led_column3-5
+Added Pin To Net: NetName=5V_led Pin=D2_led_column4-5
+Added Pin To Net: NetName=5V_led Pin=D2_led_column5-5
+Added Pin To Net: NetName=5V_led Pin=D2_led_column6-5
+Added Pin To Net: NetName=5V_led Pin=D2_led_column7-5
+Added Pin To Net: NetName=5V_led Pin=D2_led_column8-5
+Added Pin To Net: NetName=5V_led Pin=D3_led_column1-5
+Added Pin To Net: NetName=5V_led Pin=D3_led_column2-5
+Added Pin To Net: NetName=5V_led Pin=D3_led_column3-5
+Added Pin To Net: NetName=5V_led Pin=D3_led_column4-5
+Added Pin To Net: NetName=5V_led Pin=D3_led_column5-5
+Added Pin To Net: NetName=5V_led Pin=D3_led_column6-5
+Added Pin To Net: NetName=5V_led Pin=D3_led_column7-5
+Added Pin To Net: NetName=5V_led Pin=D3_led_column8-5
+Added Pin To Net: NetName=5V_led Pin=D4_led_column1-5
+Added Pin To Net: NetName=5V_led Pin=D4_led_column2-5
+Added Pin To Net: NetName=5V_led Pin=D4_led_column3-5
+Added Pin To Net: NetName=5V_led Pin=D4_led_column4-5
+Added Pin To Net: NetName=5V_led Pin=D4_led_column5-5
+Added Pin To Net: NetName=5V_led Pin=D4_led_column6-5
+Added Pin To Net: NetName=5V_led Pin=D4_led_column7-5
+Added Pin To Net: NetName=5V_led Pin=D4_led_column8-5
+Added Pin To Net: NetName=5V_led Pin=D5_led_column1-5
+Added Pin To Net: NetName=5V_led Pin=D5_led_column2-5
+Added Pin To Net: NetName=5V_led Pin=D5_led_column3-5
+Added Pin To Net: NetName=5V_led Pin=D5_led_column4-5
+Added Pin To Net: NetName=5V_led Pin=D5_led_column5-5
+Added Pin To Net: NetName=5V_led Pin=D5_led_column6-5
+Added Pin To Net: NetName=5V_led Pin=D5_led_column7-5
+Added Pin To Net: NetName=5V_led Pin=D5_led_column8-5
+Added Pin To Net: NetName=5V_led Pin=D6_led_column1-5
+Added Pin To Net: NetName=5V_led Pin=D6_led_column2-5
+Added Pin To Net: NetName=5V_led Pin=D6_led_column3-5
+Added Pin To Net: NetName=5V_led Pin=D6_led_column4-5
+Added Pin To Net: NetName=5V_led Pin=D6_led_column5-5
+Added Pin To Net: NetName=5V_led Pin=D6_led_column6-5
+Added Pin To Net: NetName=5V_led Pin=D6_led_column7-5
+Added Pin To Net: NetName=5V_led Pin=D6_led_column8-5
+Added Pin To Net: NetName=5V_led Pin=D7_led_column1-5
+Added Pin To Net: NetName=5V_led Pin=D7_led_column2-5
+Added Pin To Net: NetName=5V_led Pin=D7_led_column3-5
+Added Pin To Net: NetName=5V_led Pin=D7_led_column4-5
+Added Pin To Net: NetName=5V_led Pin=D7_led_column5-5
+Added Pin To Net: NetName=5V_led Pin=D7_led_column6-5
+Added Pin To Net: NetName=5V_led Pin=D7_led_column7-5
+Added Pin To Net: NetName=5V_led Pin=D7_led_column8-5
+Added Pin To Net: NetName=5V_led Pin=D8_led_column1-5
+Added Pin To Net: NetName=5V_led Pin=D8_led_column2-5
+Added Pin To Net: NetName=5V_led Pin=D8_led_column3-5
+Added Pin To Net: NetName=5V_led Pin=D8_led_column4-5
+Added Pin To Net: NetName=5V_led Pin=D8_led_column5-5
+Added Pin To Net: NetName=5V_led Pin=D8_led_column6-5
+Added Pin To Net: NetName=5V_led Pin=D8_led_column7-5
+Added Pin To Net: NetName=5V_led Pin=D8_led_column8-5
+Added Pin To Net: NetName=5V_led Pin=R10_led_column1-1
+Added Pin To Net: NetName=5V_led Pin=R10_led_column2-1
+Added Pin To Net: NetName=5V_led Pin=R10_led_column3-1
+Added Pin To Net: NetName=5V_led Pin=R10_led_column4-1
+Added Pin To Net: NetName=5V_led Pin=R10_led_column5-1
+Added Pin To Net: NetName=5V_led Pin=R10_led_column6-1
+Added Pin To Net: NetName=5V_led Pin=R10_led_column7-1
+Added Pin To Net: NetName=5V_led Pin=R10_led_column8-1
+Added Pin To Net: NetName=5V_led Pin=R11_led_column1-1
+Added Pin To Net: NetName=5V_led Pin=R11_led_column2-1
+Added Pin To Net: NetName=5V_led Pin=R11_led_column3-1
+Added Pin To Net: NetName=5V_led Pin=R11_led_column4-1
+Added Pin To Net: NetName=5V_led Pin=R11_led_column5-1
+Added Pin To Net: NetName=5V_led Pin=R11_led_column6-1
+Added Pin To Net: NetName=5V_led Pin=R11_led_column7-1
+Added Pin To Net: NetName=5V_led Pin=R11_led_column8-1
+Added Pin To Net: NetName=5V_led Pin=R12_led_column1-1
+Added Pin To Net: NetName=5V_led Pin=R12_led_column2-1
+Added Pin To Net: NetName=5V_led Pin=R12_led_column3-1
+Added Pin To Net: NetName=5V_led Pin=R12_led_column4-1
+Added Pin To Net: NetName=5V_led Pin=R12_led_column5-1
+Added Pin To Net: NetName=5V_led Pin=R12_led_column6-1
+Added Pin To Net: NetName=5V_led Pin=R12_led_column7-1
+Added Pin To Net: NetName=5V_led Pin=R12_led_column8-1
+Added Pin To Net: NetName=5V_led Pin=R13_led_column1-1
+Added Pin To Net: NetName=5V_led Pin=R13_led_column2-1
+Added Pin To Net: NetName=5V_led Pin=R13_led_column3-1
+Added Pin To Net: NetName=5V_led Pin=R13_led_column4-1
+Added Pin To Net: NetName=5V_led Pin=R13_led_column5-1
+Added Pin To Net: NetName=5V_led Pin=R13_led_column6-1
+Added Pin To Net: NetName=5V_led Pin=R13_led_column7-1
+Added Pin To Net: NetName=5V_led Pin=R13_led_column8-1
+Added Pin To Net: NetName=5V_led Pin=R14_led_column1-1
+Added Pin To Net: NetName=5V_led Pin=R14_led_column2-1
+Added Pin To Net: NetName=5V_led Pin=R14_led_column3-1
+Added Pin To Net: NetName=5V_led Pin=R14_led_column4-1
+Added Pin To Net: NetName=5V_led Pin=R14_led_column5-1
+Added Pin To Net: NetName=5V_led Pin=R14_led_column6-1
+Added Pin To Net: NetName=5V_led Pin=R14_led_column7-1
+Added Pin To Net: NetName=5V_led Pin=R14_led_column8-1
+Added Pin To Net: NetName=5V_led Pin=R15_led_column1-1
+Added Pin To Net: NetName=5V_led Pin=R15_led_column2-1
+Added Pin To Net: NetName=5V_led Pin=R15_led_column3-1
+Added Pin To Net: NetName=5V_led Pin=R15_led_column4-1
+Added Pin To Net: NetName=5V_led Pin=R15_led_column5-1
+Added Pin To Net: NetName=5V_led Pin=R15_led_column6-1
+Added Pin To Net: NetName=5V_led Pin=R15_led_column7-1
+Added Pin To Net: NetName=5V_led Pin=R15_led_column8-1
+Added Pin To Net: NetName=5V_led Pin=R16_led_column1-1
+Added Pin To Net: NetName=5V_led Pin=R16_led_column2-1
+Added Pin To Net: NetName=5V_led Pin=R16_led_column3-1
+Added Pin To Net: NetName=5V_led Pin=R16_led_column4-1
+Added Pin To Net: NetName=5V_led Pin=R16_led_column5-1
+Added Pin To Net: NetName=5V_led Pin=R16_led_column6-1
+Added Pin To Net: NetName=5V_led Pin=R16_led_column7-1
+Added Pin To Net: NetName=5V_led Pin=R16_led_column8-1
+Added Pin To Net: NetName=5V_led Pin=R17_led_column1-1
+Added Pin To Net: NetName=5V_led Pin=R17_led_column2-1
+Added Pin To Net: NetName=5V_led Pin=R17_led_column3-1
+Added Pin To Net: NetName=5V_led Pin=R17_led_column4-1
+Added Pin To Net: NetName=5V_led Pin=R17_led_column5-1
+Added Pin To Net: NetName=5V_led Pin=R17_led_column6-1
+Added Pin To Net: NetName=5V_led Pin=R17_led_column7-1
+Added Pin To Net: NetName=5V_led Pin=R17_led_column8-1
+Added Net: Name=5V_led
+Added Pin To Net: NetName=5Vout1 Pin=P1-9
+Added Pin To Net: NetName=5Vout1 Pin=P1-10
+Added Pin To Net: NetName=5Vout1 Pin=P2-1
+Added Pin To Net: NetName=5Vout1 Pin=U2_5V_dcdc1-3
+Added Pin To Net: NetName=5Vout1 Pin=U2_5V_dcdc1-3
+Added Net: Name=5Vout1
+Added Pin To Net: NetName=5Vout2 Pin=P1-11
+Added Pin To Net: NetName=5Vout2 Pin=P1-12
+Added Pin To Net: NetName=5Vout2 Pin=P1-13
+Added Pin To Net: NetName=5Vout2 Pin=P2-2
+Added Pin To Net: NetName=5Vout2 Pin=U2_5V_dcdc2-3
+Added Pin To Net: NetName=5Vout2 Pin=U2_5V_dcdc2-3
+Added Net: Name=5Vout2
+Added Pin To Net: NetName=5Vout3 Pin=P1-14
+Added Pin To Net: NetName=5Vout3 Pin=P1-15
+Added Pin To Net: NetName=5Vout3 Pin=P1-16
+Added Pin To Net: NetName=5Vout3 Pin=P2-3
+Added Pin To Net: NetName=5Vout3 Pin=U2_5V_dcdc3-3
+Added Pin To Net: NetName=5Vout3 Pin=U2_5V_dcdc3-3
+Added Net: Name=5Vout3
+Added Pin To Net: NetName=CS Pin=AT2-44
+Added Pin To Net: NetName=CS Pin=U1-8
+Added Net: Name=CS
+Added Pin To Net: NetName=Din1 Pin=AT2-43
+Added Pin To Net: NetName=Din1 Pin=D1_led_column1-2
+Added Net: Name=Din1
+Added Pin To Net: NetName=Din2 Pin=AT2-42
+Added Pin To Net: NetName=Din2 Pin=D1_led_column2-2
+Added Net: Name=Din2
+Added Pin To Net: NetName=Din3 Pin=AT2-41
+Added Pin To Net: NetName=Din3 Pin=D1_led_column3-2
+Added Net: Name=Din3
+Added Pin To Net: NetName=Din4 Pin=AT2-40
+Added Pin To Net: NetName=Din4 Pin=D1_led_column4-2
+Added Net: Name=Din4
+Added Pin To Net: NetName=Din5 Pin=AT2-26
+Added Pin To Net: NetName=Din5 Pin=D1_led_column5-2
+Added Net: Name=Din5
+Added Pin To Net: NetName=Din6 Pin=AT2-25
+Added Pin To Net: NetName=Din6 Pin=D1_led_column6-2
+Added Net: Name=Din6
+Added Pin To Net: NetName=Din7 Pin=AT2-19
+Added Pin To Net: NetName=Din7 Pin=D1_led_column7-2
+Added Net: Name=Din7
+Added Pin To Net: NetName=Din8 Pin=AT2-20
+Added Pin To Net: NetName=Din8 Pin=D1_led_column8-2
+Added Net: Name=Din8
+Added Pin To Net: NetName=MISO Pin=AT2-2
+Added Pin To Net: NetName=MISO Pin=U1-7
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=AT2-1
+Added Pin To Net: NetName=MOSI Pin=U1-6
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetAT2_7 Pin=AT2-7
+Added Pin To Net: NetName=NetAT2_7 Pin=C2-1
+Added Pin To Net: NetName=NetAT2_7 Pin=XT2-1
+Added Net: Name=NetAT2_7
+Added Pin To Net: NetName=NetAT2_8 Pin=AT2-8
+Added Pin To Net: NetName=NetAT2_8 Pin=C12-1
+Added Pin To Net: NetName=NetAT2_8 Pin=XT2-2
+Added Net: Name=NetAT2_8
+Added Pin To Net: NetName=NetC17_LDO1_1 Pin=C17_LDO1-1
+Added Pin To Net: NetName=NetC17_LDO1_1 Pin=P10_LDO1-2
+Added Pin To Net: NetName=NetC17_LDO1_1 Pin=VR1_LDO1-1
+Added Pin To Net: NetName=NetC17_LDO1_1 Pin=VR1_LDO1-3
+Added Net: Name=NetC17_LDO1_1
+Added Pin To Net: NetName=NetC17_LDO2_1 Pin=C17_LDO2-1
+Added Pin To Net: NetName=NetC17_LDO2_1 Pin=P10_LDO2-2
+Added Pin To Net: NetName=NetC17_LDO2_1 Pin=VR1_LDO2-1
+Added Pin To Net: NetName=NetC17_LDO2_1 Pin=VR1_LDO2-3
+Added Net: Name=NetC17_LDO2_1
+Added Pin To Net: NetName=NetC19_led_column1_1 Pin=C19_led_column1-1
+Added Pin To Net: NetName=NetC19_led_column1_1 Pin=D1_led_column1-3
+Added Pin To Net: NetName=NetC19_led_column1_1 Pin=R10_led_column1-0
+Added Net: Name=NetC19_led_column1_1
+Added Pin To Net: NetName=NetC19_led_column2_1 Pin=C19_led_column2-1
+Added Pin To Net: NetName=NetC19_led_column2_1 Pin=D1_led_column2-3
+Added Pin To Net: NetName=NetC19_led_column2_1 Pin=R10_led_column2-0
+Added Net: Name=NetC19_led_column2_1
+Added Pin To Net: NetName=NetC19_led_column3_1 Pin=C19_led_column3-1
+Added Pin To Net: NetName=NetC19_led_column3_1 Pin=D1_led_column3-3
+Added Pin To Net: NetName=NetC19_led_column3_1 Pin=R10_led_column3-0
+Added Net: Name=NetC19_led_column3_1
+Added Pin To Net: NetName=NetC19_led_column4_1 Pin=C19_led_column4-1
+Added Pin To Net: NetName=NetC19_led_column4_1 Pin=D1_led_column4-3
+Added Pin To Net: NetName=NetC19_led_column4_1 Pin=R10_led_column4-0
+Added Net: Name=NetC19_led_column4_1
+Added Pin To Net: NetName=NetC19_led_column5_1 Pin=C19_led_column5-1
+Added Pin To Net: NetName=NetC19_led_column5_1 Pin=D1_led_column5-3
+Added Pin To Net: NetName=NetC19_led_column5_1 Pin=R10_led_column5-0
+Added Net: Name=NetC19_led_column5_1
+Added Pin To Net: NetName=NetC19_led_column6_1 Pin=C19_led_column6-1
+Added Pin To Net: NetName=NetC19_led_column6_1 Pin=D1_led_column6-3
+Added Pin To Net: NetName=NetC19_led_column6_1 Pin=R10_led_column6-0
+Added Net: Name=NetC19_led_column6_1
+Added Pin To Net: NetName=NetC19_led_column7_1 Pin=C19_led_column7-1
+Added Pin To Net: NetName=NetC19_led_column7_1 Pin=D1_led_column7-3
+Added Pin To Net: NetName=NetC19_led_column7_1 Pin=R10_led_column7-0
+Added Net: Name=NetC19_led_column7_1
+Added Pin To Net: NetName=NetC19_led_column8_1 Pin=C19_led_column8-1
+Added Pin To Net: NetName=NetC19_led_column8_1 Pin=D1_led_column8-3
+Added Pin To Net: NetName=NetC19_led_column8_1 Pin=R10_led_column8-0
+Added Net: Name=NetC19_led_column8_1
+Added Pin To Net: NetName=NetC20_led_column1_1 Pin=C20_led_column1-1
+Added Pin To Net: NetName=NetC20_led_column1_1 Pin=D2_led_column1-3
+Added Pin To Net: NetName=NetC20_led_column1_1 Pin=R11_led_column1-0
+Added Net: Name=NetC20_led_column1_1
+Added Pin To Net: NetName=NetC20_led_column2_1 Pin=C20_led_column2-1
+Added Pin To Net: NetName=NetC20_led_column2_1 Pin=D2_led_column2-3
+Added Pin To Net: NetName=NetC20_led_column2_1 Pin=R11_led_column2-0
+Added Net: Name=NetC20_led_column2_1
+Added Pin To Net: NetName=NetC20_led_column3_1 Pin=C20_led_column3-1
+Added Pin To Net: NetName=NetC20_led_column3_1 Pin=D2_led_column3-3
+Added Pin To Net: NetName=NetC20_led_column3_1 Pin=R11_led_column3-0
+Added Net: Name=NetC20_led_column3_1
+Added Pin To Net: NetName=NetC20_led_column4_1 Pin=C20_led_column4-1
+Added Pin To Net: NetName=NetC20_led_column4_1 Pin=D2_led_column4-3
+Added Pin To Net: NetName=NetC20_led_column4_1 Pin=R11_led_column4-0
+Added Net: Name=NetC20_led_column4_1
+Added Pin To Net: NetName=NetC20_led_column5_1 Pin=C20_led_column5-1
+Added Pin To Net: NetName=NetC20_led_column5_1 Pin=D2_led_column5-3
+Added Pin To Net: NetName=NetC20_led_column5_1 Pin=R11_led_column5-0
+Added Net: Name=NetC20_led_column5_1
+Added Pin To Net: NetName=NetC20_led_column6_1 Pin=C20_led_column6-1
+Added Pin To Net: NetName=NetC20_led_column6_1 Pin=D2_led_column6-3
+Added Pin To Net: NetName=NetC20_led_column6_1 Pin=R11_led_column6-0
+Added Net: Name=NetC20_led_column6_1
+Added Pin To Net: NetName=NetC20_led_column7_1 Pin=C20_led_column7-1
+Added Pin To Net: NetName=NetC20_led_column7_1 Pin=D2_led_column7-3
+Added Pin To Net: NetName=NetC20_led_column7_1 Pin=R11_led_column7-0
+Added Net: Name=NetC20_led_column7_1
+Added Pin To Net: NetName=NetC20_led_column8_1 Pin=C20_led_column8-1
+Added Pin To Net: NetName=NetC20_led_column8_1 Pin=D2_led_column8-3
+Added Pin To Net: NetName=NetC20_led_column8_1 Pin=R11_led_column8-0
+Added Net: Name=NetC20_led_column8_1
+Added Pin To Net: NetName=NetC21_led_column1_1 Pin=C21_led_column1-1
+Added Pin To Net: NetName=NetC21_led_column1_1 Pin=D3_led_column1-3
+Added Pin To Net: NetName=NetC21_led_column1_1 Pin=R12_led_column1-0
+Added Net: Name=NetC21_led_column1_1
+Added Pin To Net: NetName=NetC21_led_column2_1 Pin=C21_led_column2-1
+Added Pin To Net: NetName=NetC21_led_column2_1 Pin=D3_led_column2-3
+Added Pin To Net: NetName=NetC21_led_column2_1 Pin=R12_led_column2-0
+Added Net: Name=NetC21_led_column2_1
+Added Pin To Net: NetName=NetC21_led_column3_1 Pin=C21_led_column3-1
+Added Pin To Net: NetName=NetC21_led_column3_1 Pin=D3_led_column3-3
+Added Pin To Net: NetName=NetC21_led_column3_1 Pin=R12_led_column3-0
+Added Net: Name=NetC21_led_column3_1
+Added Pin To Net: NetName=NetC21_led_column4_1 Pin=C21_led_column4-1
+Added Pin To Net: NetName=NetC21_led_column4_1 Pin=D3_led_column4-3
+Added Pin To Net: NetName=NetC21_led_column4_1 Pin=R12_led_column4-0
+Added Net: Name=NetC21_led_column4_1
+Added Pin To Net: NetName=NetC21_led_column5_1 Pin=C21_led_column5-1
+Added Pin To Net: NetName=NetC21_led_column5_1 Pin=D3_led_column5-3
+Added Pin To Net: NetName=NetC21_led_column5_1 Pin=R12_led_column5-0
+Added Net: Name=NetC21_led_column5_1
+Added Pin To Net: NetName=NetC21_led_column6_1 Pin=C21_led_column6-1
+Added Pin To Net: NetName=NetC21_led_column6_1 Pin=D3_led_column6-3
+Added Pin To Net: NetName=NetC21_led_column6_1 Pin=R12_led_column6-0
+Added Net: Name=NetC21_led_column6_1
+Added Pin To Net: NetName=NetC21_led_column7_1 Pin=C21_led_column7-1
+Added Pin To Net: NetName=NetC21_led_column7_1 Pin=D3_led_column7-3
+Added Pin To Net: NetName=NetC21_led_column7_1 Pin=R12_led_column7-0
+Added Net: Name=NetC21_led_column7_1
+Added Pin To Net: NetName=NetC21_led_column8_1 Pin=C21_led_column8-1
+Added Pin To Net: NetName=NetC21_led_column8_1 Pin=D3_led_column8-3
+Added Pin To Net: NetName=NetC21_led_column8_1 Pin=R12_led_column8-0
+Added Net: Name=NetC21_led_column8_1
+Added Pin To Net: NetName=NetC22_led_column1_1 Pin=C22_led_column1-1
+Added Pin To Net: NetName=NetC22_led_column1_1 Pin=D4_led_column1-3
+Added Pin To Net: NetName=NetC22_led_column1_1 Pin=R13_led_column1-0
+Added Net: Name=NetC22_led_column1_1
+Added Pin To Net: NetName=NetC22_led_column2_1 Pin=C22_led_column2-1
+Added Pin To Net: NetName=NetC22_led_column2_1 Pin=D4_led_column2-3
+Added Pin To Net: NetName=NetC22_led_column2_1 Pin=R13_led_column2-0
+Added Net: Name=NetC22_led_column2_1
+Added Pin To Net: NetName=NetC22_led_column3_1 Pin=C22_led_column3-1
+Added Pin To Net: NetName=NetC22_led_column3_1 Pin=D4_led_column3-3
+Added Pin To Net: NetName=NetC22_led_column3_1 Pin=R13_led_column3-0
+Added Net: Name=NetC22_led_column3_1
+Added Pin To Net: NetName=NetC22_led_column4_1 Pin=C22_led_column4-1
+Added Pin To Net: NetName=NetC22_led_column4_1 Pin=D4_led_column4-3
+Added Pin To Net: NetName=NetC22_led_column4_1 Pin=R13_led_column4-0
+Added Net: Name=NetC22_led_column4_1
+Added Pin To Net: NetName=NetC22_led_column5_1 Pin=C22_led_column5-1
+Added Pin To Net: NetName=NetC22_led_column5_1 Pin=D4_led_column5-3
+Added Pin To Net: NetName=NetC22_led_column5_1 Pin=R13_led_column5-0
+Added Net: Name=NetC22_led_column5_1
+Added Pin To Net: NetName=NetC22_led_column6_1 Pin=C22_led_column6-1
+Added Pin To Net: NetName=NetC22_led_column6_1 Pin=D4_led_column6-3
+Added Pin To Net: NetName=NetC22_led_column6_1 Pin=R13_led_column6-0
+Added Net: Name=NetC22_led_column6_1
+Added Pin To Net: NetName=NetC22_led_column7_1 Pin=C22_led_column7-1
+Added Pin To Net: NetName=NetC22_led_column7_1 Pin=D4_led_column7-3
+Added Pin To Net: NetName=NetC22_led_column7_1 Pin=R13_led_column7-0
+Added Net: Name=NetC22_led_column7_1
+Added Pin To Net: NetName=NetC22_led_column8_1 Pin=C22_led_column8-1
+Added Pin To Net: NetName=NetC22_led_column8_1 Pin=D4_led_column8-3
+Added Pin To Net: NetName=NetC22_led_column8_1 Pin=R13_led_column8-0
+Added Net: Name=NetC22_led_column8_1
+Added Pin To Net: NetName=NetC23_led_column1_1 Pin=C23_led_column1-1
+Added Pin To Net: NetName=NetC23_led_column1_1 Pin=D5_led_column1-3
+Added Pin To Net: NetName=NetC23_led_column1_1 Pin=R14_led_column1-0
+Added Net: Name=NetC23_led_column1_1
+Added Pin To Net: NetName=NetC23_led_column2_1 Pin=C23_led_column2-1
+Added Pin To Net: NetName=NetC23_led_column2_1 Pin=D5_led_column2-3
+Added Pin To Net: NetName=NetC23_led_column2_1 Pin=R14_led_column2-0
+Added Net: Name=NetC23_led_column2_1
+Added Pin To Net: NetName=NetC23_led_column3_1 Pin=C23_led_column3-1
+Added Pin To Net: NetName=NetC23_led_column3_1 Pin=D5_led_column3-3
+Added Pin To Net: NetName=NetC23_led_column3_1 Pin=R14_led_column3-0
+Added Net: Name=NetC23_led_column3_1
+Added Pin To Net: NetName=NetC23_led_column4_1 Pin=C23_led_column4-1
+Added Pin To Net: NetName=NetC23_led_column4_1 Pin=D5_led_column4-3
+Added Pin To Net: NetName=NetC23_led_column4_1 Pin=R14_led_column4-0
+Added Net: Name=NetC23_led_column4_1
+Added Pin To Net: NetName=NetC23_led_column5_1 Pin=C23_led_column5-1
+Added Pin To Net: NetName=NetC23_led_column5_1 Pin=D5_led_column5-3
+Added Pin To Net: NetName=NetC23_led_column5_1 Pin=R14_led_column5-0
+Added Net: Name=NetC23_led_column5_1
+Added Pin To Net: NetName=NetC23_led_column6_1 Pin=C23_led_column6-1
+Added Pin To Net: NetName=NetC23_led_column6_1 Pin=D5_led_column6-3
+Added Pin To Net: NetName=NetC23_led_column6_1 Pin=R14_led_column6-0
+Added Net: Name=NetC23_led_column6_1
+Added Pin To Net: NetName=NetC23_led_column7_1 Pin=C23_led_column7-1
+Added Pin To Net: NetName=NetC23_led_column7_1 Pin=D5_led_column7-3
+Added Pin To Net: NetName=NetC23_led_column7_1 Pin=R14_led_column7-0
+Added Net: Name=NetC23_led_column7_1
+Added Pin To Net: NetName=NetC23_led_column8_1 Pin=C23_led_column8-1
+Added Pin To Net: NetName=NetC23_led_column8_1 Pin=D5_led_column8-3
+Added Pin To Net: NetName=NetC23_led_column8_1 Pin=R14_led_column8-0
+Added Net: Name=NetC23_led_column8_1
+Added Pin To Net: NetName=NetC24_led_column1_1 Pin=C24_led_column1-1
+Added Pin To Net: NetName=NetC24_led_column1_1 Pin=D6_led_column1-3
+Added Pin To Net: NetName=NetC24_led_column1_1 Pin=R15_led_column1-0
+Added Net: Name=NetC24_led_column1_1
+Added Pin To Net: NetName=NetC24_led_column2_1 Pin=C24_led_column2-1
+Added Pin To Net: NetName=NetC24_led_column2_1 Pin=D6_led_column2-3
+Added Pin To Net: NetName=NetC24_led_column2_1 Pin=R15_led_column2-0
+Added Net: Name=NetC24_led_column2_1
+Added Pin To Net: NetName=NetC24_led_column3_1 Pin=C24_led_column3-1
+Added Pin To Net: NetName=NetC24_led_column3_1 Pin=D6_led_column3-3
+Added Pin To Net: NetName=NetC24_led_column3_1 Pin=R15_led_column3-0
+Added Net: Name=NetC24_led_column3_1
+Added Pin To Net: NetName=NetC24_led_column4_1 Pin=C24_led_column4-1
+Added Pin To Net: NetName=NetC24_led_column4_1 Pin=D6_led_column4-3
+Added Pin To Net: NetName=NetC24_led_column4_1 Pin=R15_led_column4-0
+Added Net: Name=NetC24_led_column4_1
+Added Pin To Net: NetName=NetC24_led_column5_1 Pin=C24_led_column5-1
+Added Pin To Net: NetName=NetC24_led_column5_1 Pin=D6_led_column5-3
+Added Pin To Net: NetName=NetC24_led_column5_1 Pin=R15_led_column5-0
+Added Net: Name=NetC24_led_column5_1
+Added Pin To Net: NetName=NetC24_led_column6_1 Pin=C24_led_column6-1
+Added Pin To Net: NetName=NetC24_led_column6_1 Pin=D6_led_column6-3
+Added Pin To Net: NetName=NetC24_led_column6_1 Pin=R15_led_column6-0
+Added Net: Name=NetC24_led_column6_1
+Added Pin To Net: NetName=NetC24_led_column7_1 Pin=C24_led_column7-1
+Added Pin To Net: NetName=NetC24_led_column7_1 Pin=D6_led_column7-3
+Added Pin To Net: NetName=NetC24_led_column7_1 Pin=R15_led_column7-0
+Added Net: Name=NetC24_led_column7_1
+Added Pin To Net: NetName=NetC24_led_column8_1 Pin=C24_led_column8-1
+Added Pin To Net: NetName=NetC24_led_column8_1 Pin=D6_led_column8-3
+Added Pin To Net: NetName=NetC24_led_column8_1 Pin=R15_led_column8-0
+Added Net: Name=NetC24_led_column8_1
+Added Pin To Net: NetName=NetC25_led_column1_1 Pin=C25_led_column1-1
+Added Pin To Net: NetName=NetC25_led_column1_1 Pin=D7_led_column1-3
+Added Pin To Net: NetName=NetC25_led_column1_1 Pin=R16_led_column1-0
+Added Net: Name=NetC25_led_column1_1
+Added Pin To Net: NetName=NetC25_led_column2_1 Pin=C25_led_column2-1
+Added Pin To Net: NetName=NetC25_led_column2_1 Pin=D7_led_column2-3
+Added Pin To Net: NetName=NetC25_led_column2_1 Pin=R16_led_column2-0
+Added Net: Name=NetC25_led_column2_1
+Added Pin To Net: NetName=NetC25_led_column3_1 Pin=C25_led_column3-1
+Added Pin To Net: NetName=NetC25_led_column3_1 Pin=D7_led_column3-3
+Added Pin To Net: NetName=NetC25_led_column3_1 Pin=R16_led_column3-0
+Added Net: Name=NetC25_led_column3_1
+Added Pin To Net: NetName=NetC25_led_column4_1 Pin=C25_led_column4-1
+Added Pin To Net: NetName=NetC25_led_column4_1 Pin=D7_led_column4-3
+Added Pin To Net: NetName=NetC25_led_column4_1 Pin=R16_led_column4-0
+Added Net: Name=NetC25_led_column4_1
+Added Pin To Net: NetName=NetC25_led_column5_1 Pin=C25_led_column5-1
+Added Pin To Net: NetName=NetC25_led_column5_1 Pin=D7_led_column5-3
+Added Pin To Net: NetName=NetC25_led_column5_1 Pin=R16_led_column5-0
+Added Net: Name=NetC25_led_column5_1
+Added Pin To Net: NetName=NetC25_led_column6_1 Pin=C25_led_column6-1
+Added Pin To Net: NetName=NetC25_led_column6_1 Pin=D7_led_column6-3
+Added Pin To Net: NetName=NetC25_led_column6_1 Pin=R16_led_column6-0
+Added Net: Name=NetC25_led_column6_1
+Added Pin To Net: NetName=NetC25_led_column7_1 Pin=C25_led_column7-1
+Added Pin To Net: NetName=NetC25_led_column7_1 Pin=D7_led_column7-3
+Added Pin To Net: NetName=NetC25_led_column7_1 Pin=R16_led_column7-0
+Added Net: Name=NetC25_led_column7_1
+Added Pin To Net: NetName=NetC25_led_column8_1 Pin=C25_led_column8-1
+Added Pin To Net: NetName=NetC25_led_column8_1 Pin=D7_led_column8-3
+Added Pin To Net: NetName=NetC25_led_column8_1 Pin=R16_led_column8-0
+Added Net: Name=NetC25_led_column8_1
+Added Pin To Net: NetName=NetC26_led_column1_1 Pin=C26_led_column1-1
+Added Pin To Net: NetName=NetC26_led_column1_1 Pin=D8_led_column1-3
+Added Pin To Net: NetName=NetC26_led_column1_1 Pin=R17_led_column1-0
+Added Net: Name=NetC26_led_column1_1
+Added Pin To Net: NetName=NetC26_led_column2_1 Pin=C26_led_column2-1
+Added Pin To Net: NetName=NetC26_led_column2_1 Pin=D8_led_column2-3
+Added Pin To Net: NetName=NetC26_led_column2_1 Pin=R17_led_column2-0
+Added Net: Name=NetC26_led_column2_1
+Added Pin To Net: NetName=NetC26_led_column3_1 Pin=C26_led_column3-1
+Added Pin To Net: NetName=NetC26_led_column3_1 Pin=D8_led_column3-3
+Added Pin To Net: NetName=NetC26_led_column3_1 Pin=R17_led_column3-0
+Added Net: Name=NetC26_led_column3_1
+Added Pin To Net: NetName=NetC26_led_column4_1 Pin=C26_led_column4-1
+Added Pin To Net: NetName=NetC26_led_column4_1 Pin=D8_led_column4-3
+Added Pin To Net: NetName=NetC26_led_column4_1 Pin=R17_led_column4-0
+Added Net: Name=NetC26_led_column4_1
+Added Pin To Net: NetName=NetC26_led_column5_1 Pin=C26_led_column5-1
+Added Pin To Net: NetName=NetC26_led_column5_1 Pin=D8_led_column5-3
+Added Pin To Net: NetName=NetC26_led_column5_1 Pin=R17_led_column5-0
+Added Net: Name=NetC26_led_column5_1
+Added Pin To Net: NetName=NetC26_led_column6_1 Pin=C26_led_column6-1
+Added Pin To Net: NetName=NetC26_led_column6_1 Pin=D8_led_column6-3
+Added Pin To Net: NetName=NetC26_led_column6_1 Pin=R17_led_column6-0
+Added Net: Name=NetC26_led_column6_1
+Added Pin To Net: NetName=NetC26_led_column7_1 Pin=C26_led_column7-1
+Added Pin To Net: NetName=NetC26_led_column7_1 Pin=D8_led_column7-3
+Added Pin To Net: NetName=NetC26_led_column7_1 Pin=R17_led_column7-0
+Added Net: Name=NetC26_led_column7_1
+Added Pin To Net: NetName=NetC26_led_column8_1 Pin=C26_led_column8-1
+Added Pin To Net: NetName=NetC26_led_column8_1 Pin=D8_led_column8-3
+Added Pin To Net: NetName=NetC26_led_column8_1 Pin=R17_led_column8-0
+Added Net: Name=NetC26_led_column8_1
+Added Pin To Net: NetName=NetD1_led_column1_1 Pin=D1_led_column1-1
+Added Pin To Net: NetName=NetD1_led_column1_1 Pin=D2_led_column1-2
+Added Net: Name=NetD1_led_column1_1
+Added Pin To Net: NetName=NetD1_led_column2_1 Pin=D1_led_column2-1
+Added Pin To Net: NetName=NetD1_led_column2_1 Pin=D2_led_column2-2
+Added Net: Name=NetD1_led_column2_1
+Added Pin To Net: NetName=NetD1_led_column3_1 Pin=D1_led_column3-1
+Added Pin To Net: NetName=NetD1_led_column3_1 Pin=D2_led_column3-2
+Added Net: Name=NetD1_led_column3_1
+Added Pin To Net: NetName=NetD1_led_column4_1 Pin=D1_led_column4-1
+Added Pin To Net: NetName=NetD1_led_column4_1 Pin=D2_led_column4-2
+Added Net: Name=NetD1_led_column4_1
+Added Pin To Net: NetName=NetD1_led_column5_1 Pin=D1_led_column5-1
+Added Pin To Net: NetName=NetD1_led_column5_1 Pin=D2_led_column5-2
+Added Net: Name=NetD1_led_column5_1
+Added Pin To Net: NetName=NetD1_led_column6_1 Pin=D1_led_column6-1
+Added Pin To Net: NetName=NetD1_led_column6_1 Pin=D2_led_column6-2
+Added Net: Name=NetD1_led_column6_1
+Added Pin To Net: NetName=NetD1_led_column7_1 Pin=D1_led_column7-1
+Added Pin To Net: NetName=NetD1_led_column7_1 Pin=D2_led_column7-2
+Added Net: Name=NetD1_led_column7_1
+Added Pin To Net: NetName=NetD1_led_column8_1 Pin=D1_led_column8-1
+Added Pin To Net: NetName=NetD1_led_column8_1 Pin=D2_led_column8-2
+Added Net: Name=NetD1_led_column8_1
+Added Pin To Net: NetName=NetD2_led_column1_1 Pin=D2_led_column1-1
+Added Pin To Net: NetName=NetD2_led_column1_1 Pin=D3_led_column1-2
+Added Net: Name=NetD2_led_column1_1
+Added Pin To Net: NetName=NetD2_led_column2_1 Pin=D2_led_column2-1
+Added Pin To Net: NetName=NetD2_led_column2_1 Pin=D3_led_column2-2
+Added Net: Name=NetD2_led_column2_1
+Added Pin To Net: NetName=NetD2_led_column3_1 Pin=D2_led_column3-1
+Added Pin To Net: NetName=NetD2_led_column3_1 Pin=D3_led_column3-2
+Added Net: Name=NetD2_led_column3_1
+Added Pin To Net: NetName=NetD2_led_column4_1 Pin=D2_led_column4-1
+Added Pin To Net: NetName=NetD2_led_column4_1 Pin=D3_led_column4-2
+Added Net: Name=NetD2_led_column4_1
+Added Pin To Net: NetName=NetD2_led_column5_1 Pin=D2_led_column5-1
+Added Pin To Net: NetName=NetD2_led_column5_1 Pin=D3_led_column5-2
+Added Net: Name=NetD2_led_column5_1
+Added Pin To Net: NetName=NetD2_led_column6_1 Pin=D2_led_column6-1
+Added Pin To Net: NetName=NetD2_led_column6_1 Pin=D3_led_column6-2
+Added Net: Name=NetD2_led_column6_1
+Added Pin To Net: NetName=NetD2_led_column7_1 Pin=D2_led_column7-1
+Added Pin To Net: NetName=NetD2_led_column7_1 Pin=D3_led_column7-2
+Added Net: Name=NetD2_led_column7_1
+Added Pin To Net: NetName=NetD2_led_column8_1 Pin=D2_led_column8-1
+Added Pin To Net: NetName=NetD2_led_column8_1 Pin=D3_led_column8-2
+Added Net: Name=NetD2_led_column8_1
+Added Pin To Net: NetName=NetD3_led_column1_1 Pin=D3_led_column1-1
+Added Pin To Net: NetName=NetD3_led_column1_1 Pin=D4_led_column1-2
+Added Net: Name=NetD3_led_column1_1
+Added Pin To Net: NetName=NetD3_led_column2_1 Pin=D3_led_column2-1
+Added Pin To Net: NetName=NetD3_led_column2_1 Pin=D4_led_column2-2
+Added Net: Name=NetD3_led_column2_1
+Added Pin To Net: NetName=NetD3_led_column3_1 Pin=D3_led_column3-1
+Added Pin To Net: NetName=NetD3_led_column3_1 Pin=D4_led_column3-2
+Added Net: Name=NetD3_led_column3_1
+Added Pin To Net: NetName=NetD3_led_column4_1 Pin=D3_led_column4-1
+Added Pin To Net: NetName=NetD3_led_column4_1 Pin=D4_led_column4-2
+Added Net: Name=NetD3_led_column4_1
+Added Pin To Net: NetName=NetD3_led_column5_1 Pin=D3_led_column5-1
+Added Pin To Net: NetName=NetD3_led_column5_1 Pin=D4_led_column5-2
+Added Net: Name=NetD3_led_column5_1
+Added Pin To Net: NetName=NetD3_led_column6_1 Pin=D3_led_column6-1
+Added Pin To Net: NetName=NetD3_led_column6_1 Pin=D4_led_column6-2
+Added Net: Name=NetD3_led_column6_1
+Added Pin To Net: NetName=NetD3_led_column7_1 Pin=D3_led_column7-1
+Added Pin To Net: NetName=NetD3_led_column7_1 Pin=D4_led_column7-2
+Added Net: Name=NetD3_led_column7_1
+Added Pin To Net: NetName=NetD3_led_column8_1 Pin=D3_led_column8-1
+Added Pin To Net: NetName=NetD3_led_column8_1 Pin=D4_led_column8-2
+Added Net: Name=NetD3_led_column8_1
+Added Pin To Net: NetName=NetD4_led_column1_1 Pin=D4_led_column1-1
+Added Pin To Net: NetName=NetD4_led_column1_1 Pin=D5_led_column1-2
+Added Net: Name=NetD4_led_column1_1
+Added Pin To Net: NetName=NetD4_led_column2_1 Pin=D4_led_column2-1
+Added Pin To Net: NetName=NetD4_led_column2_1 Pin=D5_led_column2-2
+Added Net: Name=NetD4_led_column2_1
+Added Pin To Net: NetName=NetD4_led_column3_1 Pin=D4_led_column3-1
+Added Pin To Net: NetName=NetD4_led_column3_1 Pin=D5_led_column3-2
+Added Net: Name=NetD4_led_column3_1
+Added Pin To Net: NetName=NetD4_led_column4_1 Pin=D4_led_column4-1
+Added Pin To Net: NetName=NetD4_led_column4_1 Pin=D5_led_column4-2
+Added Net: Name=NetD4_led_column4_1
+Added Pin To Net: NetName=NetD4_led_column5_1 Pin=D4_led_column5-1
+Added Pin To Net: NetName=NetD4_led_column5_1 Pin=D5_led_column5-2
+Added Net: Name=NetD4_led_column5_1
+Added Pin To Net: NetName=NetD4_led_column6_1 Pin=D4_led_column6-1
+Added Pin To Net: NetName=NetD4_led_column6_1 Pin=D5_led_column6-2
+Added Net: Name=NetD4_led_column6_1
+Added Pin To Net: NetName=NetD4_led_column7_1 Pin=D4_led_column7-1
+Added Pin To Net: NetName=NetD4_led_column7_1 Pin=D5_led_column7-2
+Added Net: Name=NetD4_led_column7_1
+Added Pin To Net: NetName=NetD4_led_column8_1 Pin=D4_led_column8-1
+Added Pin To Net: NetName=NetD4_led_column8_1 Pin=D5_led_column8-2
+Added Net: Name=NetD4_led_column8_1
+Added Pin To Net: NetName=NetD5_led_column1_1 Pin=D5_led_column1-1
+Added Pin To Net: NetName=NetD5_led_column1_1 Pin=D6_led_column1-2
+Added Net: Name=NetD5_led_column1_1
+Added Pin To Net: NetName=NetD5_led_column2_1 Pin=D5_led_column2-1
+Added Pin To Net: NetName=NetD5_led_column2_1 Pin=D6_led_column2-2
+Added Net: Name=NetD5_led_column2_1
+Added Pin To Net: NetName=NetD5_led_column3_1 Pin=D5_led_column3-1
+Added Pin To Net: NetName=NetD5_led_column3_1 Pin=D6_led_column3-2
+Added Net: Name=NetD5_led_column3_1
+Added Pin To Net: NetName=NetD5_led_column4_1 Pin=D5_led_column4-1
+Added Pin To Net: NetName=NetD5_led_column4_1 Pin=D6_led_column4-2
+Added Net: Name=NetD5_led_column4_1
+Added Pin To Net: NetName=NetD5_led_column5_1 Pin=D5_led_column5-1
+Added Pin To Net: NetName=NetD5_led_column5_1 Pin=D6_led_column5-2
+Added Net: Name=NetD5_led_column5_1
+Added Pin To Net: NetName=NetD5_led_column6_1 Pin=D5_led_column6-1
+Added Pin To Net: NetName=NetD5_led_column6_1 Pin=D6_led_column6-2
+Added Net: Name=NetD5_led_column6_1
+Added Pin To Net: NetName=NetD5_led_column7_1 Pin=D5_led_column7-1
+Added Pin To Net: NetName=NetD5_led_column7_1 Pin=D6_led_column7-2
+Added Net: Name=NetD5_led_column7_1
+Added Pin To Net: NetName=NetD5_led_column8_1 Pin=D5_led_column8-1
+Added Pin To Net: NetName=NetD5_led_column8_1 Pin=D6_led_column8-2
+Added Net: Name=NetD5_led_column8_1
+Added Pin To Net: NetName=NetD6_led_column1_1 Pin=D6_led_column1-1
+Added Pin To Net: NetName=NetD6_led_column1_1 Pin=D7_led_column1-2
+Added Net: Name=NetD6_led_column1_1
+Added Pin To Net: NetName=NetD6_led_column2_1 Pin=D6_led_column2-1
+Added Pin To Net: NetName=NetD6_led_column2_1 Pin=D7_led_column2-2
+Added Net: Name=NetD6_led_column2_1
+Added Pin To Net: NetName=NetD6_led_column3_1 Pin=D6_led_column3-1
+Added Pin To Net: NetName=NetD6_led_column3_1 Pin=D7_led_column3-2
+Added Net: Name=NetD6_led_column3_1
+Added Pin To Net: NetName=NetD6_led_column4_1 Pin=D6_led_column4-1
+Added Pin To Net: NetName=NetD6_led_column4_1 Pin=D7_led_column4-2
+Added Net: Name=NetD6_led_column4_1
+Added Pin To Net: NetName=NetD6_led_column5_1 Pin=D6_led_column5-1
+Added Pin To Net: NetName=NetD6_led_column5_1 Pin=D7_led_column5-2
+Added Net: Name=NetD6_led_column5_1
+Added Pin To Net: NetName=NetD6_led_column6_1 Pin=D6_led_column6-1
+Added Pin To Net: NetName=NetD6_led_column6_1 Pin=D7_led_column6-2
+Added Net: Name=NetD6_led_column6_1
+Added Pin To Net: NetName=NetD6_led_column7_1 Pin=D6_led_column7-1
+Added Pin To Net: NetName=NetD6_led_column7_1 Pin=D7_led_column7-2
+Added Net: Name=NetD6_led_column7_1
+Added Pin To Net: NetName=NetD6_led_column8_1 Pin=D6_led_column8-1
+Added Pin To Net: NetName=NetD6_led_column8_1 Pin=D7_led_column8-2
+Added Net: Name=NetD6_led_column8_1
+Added Pin To Net: NetName=NetD7_led_column1_1 Pin=D7_led_column1-1
+Added Pin To Net: NetName=NetD7_led_column1_1 Pin=D8_led_column1-2
+Added Net: Name=NetD7_led_column1_1
+Added Pin To Net: NetName=NetD7_led_column2_1 Pin=D7_led_column2-1
+Added Pin To Net: NetName=NetD7_led_column2_1 Pin=D8_led_column2-2
+Added Net: Name=NetD7_led_column2_1
+Added Pin To Net: NetName=NetD7_led_column3_1 Pin=D7_led_column3-1
+Added Pin To Net: NetName=NetD7_led_column3_1 Pin=D8_led_column3-2
+Added Net: Name=NetD7_led_column3_1
+Added Pin To Net: NetName=NetD7_led_column4_1 Pin=D7_led_column4-1
+Added Pin To Net: NetName=NetD7_led_column4_1 Pin=D8_led_column4-2
+Added Net: Name=NetD7_led_column4_1
+Added Pin To Net: NetName=NetD7_led_column5_1 Pin=D7_led_column5-1
+Added Pin To Net: NetName=NetD7_led_column5_1 Pin=D8_led_column5-2
+Added Net: Name=NetD7_led_column5_1
+Added Pin To Net: NetName=NetD7_led_column6_1 Pin=D7_led_column6-1
+Added Pin To Net: NetName=NetD7_led_column6_1 Pin=D8_led_column6-2
+Added Net: Name=NetD7_led_column6_1
+Added Pin To Net: NetName=NetD7_led_column7_1 Pin=D7_led_column7-1
+Added Pin To Net: NetName=NetD7_led_column7_1 Pin=D8_led_column7-2
+Added Net: Name=NetD7_led_column7_1
+Added Pin To Net: NetName=NetD7_led_column8_1 Pin=D7_led_column8-1
+Added Pin To Net: NetName=NetD7_led_column8_1 Pin=D8_led_column8-2
+Added Net: Name=NetD7_led_column8_1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U2_5V_dcdc1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U2_5V_dcdc1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U2_5V_dcdc2-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U2_5V_dcdc2-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U2_5V_dcdc3-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U2_5V_dcdc3-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetLED1_LDO1_0 Pin=LED1_LDO1-0
+Added Pin To Net: NetName=NetLED1_LDO1_0 Pin=R9_LDO1-0
+Added Net: Name=NetLED1_LDO1_0
+Added Pin To Net: NetName=NetLED1_LDO2_0 Pin=LED1_LDO2-0
+Added Pin To Net: NetName=NetLED1_LDO2_0 Pin=R9_LDO2-0
+Added Net: Name=NetLED1_LDO2_0
+Added Pin To Net: NetName=NetP2_6 Pin=P2-6
+Added Pin To Net: NetName=NetP2_6 Pin=P10_LDO1-1
+Added Pin To Net: NetName=NetP2_6 Pin=P10_LDO2-1
+Added Net: Name=NetP2_6
+Added Pin To Net: NetName=SCK Pin=AT2-3
+Added Pin To Net: NetName=SCK Pin=U1-4
+Added Net: Name=SCK
+Added Class: Name=5V_dcdc1
+Added Class: Name=5V_dcdc2
+Added Class: Name=5V_dcdc3
+Added Class: Name=LDO1
+Added Class: Name=LDO2
+Added Class: Name=led_column1
+Added Class: Name=led_column2
+Added Class: Name=led_column3
+Added Class: Name=led_column4
+Added Class: Name=led_column5
+Added Class: Name=led_column6
+Added Class: Name=led_column7
+Added Class: Name=led_column8
+Added Class: Name=LEDeep_project
+Added Class: Name=U_pwr_supply
+Added Class: Name=3V3out[1..2]
+Added Class: Name=5V_led[1..3]
+Added Class: Name=5Vout[1..3]
+Added Class: Name=Din[1..8]
+Added Class: Name=tps61202
+Added Class: Name=tps79333
+Added Class: Name=ws2812_column
+Added Room: Name=5V_dcdc1
+Added Room: Name=5V_dcdc2
+Added Room: Name=5V_dcdc3
+Added Room: Name=LDO1
+Added Room: Name=LDO2
+Added Room: Name=led_column1
+Added Room: Name=led_column2
+Added Room: Name=led_column3
+Added Room: Name=led_column4
+Added Room: Name=led_column5
+Added Room: Name=led_column6
+Added Room: Name=led_column7
+Added Room: Name=led_column8
+Added Room: Name=LEDeep_project
+Added Room: Name=U_pwr_supply
