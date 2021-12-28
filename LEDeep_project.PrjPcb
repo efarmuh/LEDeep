@@ -3,7 +3,7 @@ Version=1.0
 HierarchyMode=4
 ChannelRoomNamingStyle=0
 ReleasesFolder=
-ChannelDesignatorFormatString=$Component_$RoomName
+ChannelDesignatorFormatString=$Component$ChannelAlpha
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
@@ -1125,15 +1125,6 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-
-[NetInfos]
-Net1=NetName=GND|NetColor=$006E6EFF
-Net2=NetName=GND_BP_filter1|NetColor=$006E6EFF
-Net3=NetName=GND_BP_filter2|NetColor=$006E6EFF
-Net4=NetName=GND_BP_filter3|NetColor=$006E6EFF
-Net5=NetName=GND_BP_filter4|NetColor=$006E6EFF
-Net6=NetName=GND_BP_filter5|NetColor=$006E6EFF
-Net7=NetName=GND_BP_filter6|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
