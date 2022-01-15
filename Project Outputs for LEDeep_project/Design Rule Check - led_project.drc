@@ -1,15 +1,15 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\Projects\led_project\led_project.PcbDoc
-Date     : 2021-12-30
-Time     : 23:39:38
-
-Processing Rule : Clearance Constraint (Gap=0.45mm) (WithinRoom('LDO1') or WithinRoom('LDO2')),(All)
-Rule Violations :0
+Date     : 2022-01-09
+Time     : 20:57:16
 
 Processing Rule : Clearance Constraint (Gap=0.45mm) (WithinRoom('U1_accelero')),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.45mm) (WithinRoom('led_c1') or WithinRoom('led_c2') or WithinRoom('led_c3') or WithinRoom('led_c4') or  WithinRoom('led_c5') or WithinRoom('led_c6') or  WithinRoom('led_c7') or WithinRoom('led_c8')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.45mm) (WithinRoom('LDO1') or WithinRoom('LDO2')),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.45mm) (WithinRoom('mcu_room')),(All)
@@ -51,22 +51,31 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
+Processing Rule : Room BP_filter8 (Bounding Region = (87.427mm, 2.527mm, 124.422mm, 16.599mm) (InComponentClass('BP_filter8'))
+Rule Violations :0
+
+Processing Rule : Room BP_filter6 (Bounding Region = (87.338mm, 31.166mm, 124.422mm, 45.326mm) (InComponentClass('BP_filter6'))
+Rule Violations :0
+
+Processing Rule : Room U1_accelero (Bounding Region = (36.589mm, 60.031mm, 41.923mm, 64.774mm) (InComponentClass('Room Definition 1'))
+Rule Violations :0
+
+Processing Rule : Room led_c7 (Bounding Region = (49.202mm, 1.055mm, 57.192mm, 46.533mm) (InComponentClass('led_c7'))
+Rule Violations :0
+
 Processing Rule : Room led_c8 (Bounding Region = (57.202mm, 1.055mm, 65.192mm, 46.533mm) (InComponentClass('led_c8'))
 Rule Violations :0
 
 Processing Rule : Room BP_filter7 (Bounding Region = (87.312mm, 16.789mm, 124.295mm, 31.001mm) (InComponentClass('BP_filter7'))
 Rule Violations :0
 
-Processing Rule : Room BP_filter8 (Bounding Region = (87.427mm, 2.527mm, 124.422mm, 16.599mm) (InComponentClass('BP_filter8'))
+Processing Rule : Room U_audio_filter (Bounding Region = (66.129mm, 2.324mm, 85.153mm, 27.292mm) (InComponentClass('U_audio_filter'))
 Rule Violations :0
 
-Processing Rule : Room led_c5 (Bounding Region = (33.202mm, 1.055mm, 41.192mm, 46.533mm) (InComponentClass('led_c5'))
+Processing Rule : Room BP_filter1 (Bounding Region = (87.3mm, 102.159mm, 124.384mm, 116.319mm) (InComponentClass('BP_filter1'))
 Rule Violations :0
 
-Processing Rule : Room led_c6 (Bounding Region = (41.202mm, 1.055mm, 49.192mm, 46.533mm) (InComponentClass('led_c6'))
-Rule Violations :0
-
-Processing Rule : Room led_c7 (Bounding Region = (49.202mm, 1.055mm, 57.192mm, 46.533mm) (InComponentClass('led_c7'))
+Processing Rule : Room BP_filter2 (Bounding Region = (87.312mm, 87.998mm, 124.397mm, 102.159mm) (InComponentClass('BP_filter2'))
 Rule Violations :0
 
 Processing Rule : Room led_c3 (Bounding Region = (17.202mm, 1.055mm, 25.192mm, 46.533mm) (InComponentClass('led_c3'))
@@ -76,15 +85,6 @@ Processing Rule : Room led_c2 (Bounding Region = (9.202mm, 1.055mm, 17.192mm, 46
 Rule Violations :0
 
 Processing Rule : Room mcu_room (Bounding Region = (46.761mm, 50.203mm, 64.376mm, 68.389mm) (False)
-Rule Violations :0
-
-Processing Rule : Room BP_filter6 (Bounding Region = (87.338mm, 31.166mm, 124.422mm, 45.326mm) (InComponentClass('BP_filter6'))
-Rule Violations :0
-
-Processing Rule : Room U_audio_filter (Bounding Region = (66.129mm, 2.324mm, 85.153mm, 27.292mm) (InComponentClass('U_audio_filter'))
-Rule Violations :0
-
-Processing Rule : Room U1_accelero (Bounding Region = (36.589mm, 60.031mm, 41.923mm, 64.774mm) (InComponentClass('Room Definition 1'))
 Rule Violations :0
 
 Processing Rule : Room led_c1 (Bounding Region = (0.826mm, 1.055mm, 9.192mm, 46.533mm) (InComponentClass('led_c1'))
@@ -102,13 +102,13 @@ Rule Violations :0
 Processing Rule : Room BP_filter4 (Bounding Region = (87.389mm, 59.639mm, 124.473mm, 73.8mm) (InComponentClass('BP_filter4'))
 Rule Violations :0
 
-Processing Rule : Room BP_filter2 (Bounding Region = (87.312mm, 87.998mm, 124.397mm, 102.159mm) (InComponentClass('BP_filter2'))
-Rule Violations :0
-
-Processing Rule : Room BP_filter1 (Bounding Region = (87.3mm, 102.159mm, 124.384mm, 116.319mm) (InComponentClass('BP_filter1'))
-Rule Violations :0
-
 Processing Rule : Room led_c4 (Bounding Region = (25.202mm, 1.055mm, 33.192mm, 46.533mm) (InComponentClass('led_c4'))
+Rule Violations :0
+
+Processing Rule : Room led_c5 (Bounding Region = (33.202mm, 1.055mm, 41.192mm, 46.533mm) (InComponentClass('led_c5'))
+Rule Violations :0
+
+Processing Rule : Room led_c6 (Bounding Region = (41.202mm, 1.055mm, 49.192mm, 46.533mm) (InComponentClass('led_c6'))
 Rule Violations :0
 
 Processing Rule : Room BP_filter5 (Bounding Region = (87.338mm, 45.364mm, 124.422mm, 59.525mm) (InComponentClass('BP_filter5'))

@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\led_project\led_project.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_4|Scope=Board|Minimum=17.72
+RuleKind=Clearance|RuleName=Clearance_3|Scope=Board|Minimum=17.72
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=17.72
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=17.72
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=17.72
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
